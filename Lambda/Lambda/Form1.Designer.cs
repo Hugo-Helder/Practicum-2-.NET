@@ -1,4 +1,4 @@
-﻿namespace practicum2
+﻿namespace Lambda
 {
     partial class Form1
     {
